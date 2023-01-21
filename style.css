@@ -1,0 +1,51 @@
+.nav-link {
+    color: black;
+}
+
+body {
+    background-image: url('images/background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.hr_line{
+    border: 1px solid black;
+}
+
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.image img{
+    border-radius: 50%;
+}
+
+.sci
+{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.sci li
+{
+    list-style: none;
+    margin-right: 15px;
+}
+
+.sci li a
+{
+    color: #fff;
+    font-size: 2em;
+    color: #ccc;
+}
+
+.sci li a:hover
+{
+    color: #fff;
+}
+
